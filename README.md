@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" >
+
+<div id="header" align= " center ">
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" >
+</div>
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">An enthusiastic jr frontend developer from Mexico</h3>
 
